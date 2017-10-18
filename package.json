@@ -1,0 +1,16 @@
+{
+  "name": "ugc",
+  "version": "0.0.1",
+  "description": "a website for user generated content platform",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "website",
+    "demo",
+    "tool"
+  ],
+  "author": "MarvelSQ",
+  "license": "MIT"
+}
